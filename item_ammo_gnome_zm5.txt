@@ -1,0 +1,11 @@
+item_ammo_gnome_zm5
+
+[OBJECT:ITEM]
+
+[ITEM_AMMO:ITEM_AMMO_WC_RAZORHEADS]
+[NAME:razorhead bolt:razorhead bolts]
+[CLASS:RAZORHEAD]
+[SIZE:180]
+[ATTACK:EDGE:15:1500:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+

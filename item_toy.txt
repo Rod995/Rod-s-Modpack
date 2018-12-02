@@ -1,0 +1,52 @@
+item_toy
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_PUZZLEBOX]
+[NAME:puzzlebox:puzzleboxes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BOAT]
+[NAME:toy boat:toy boats]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HAMMER]
+[NAME:toy hammer:toy hammers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_AXE]
+[NAME:toy axe:toy axes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINIFORGE]
+[NAME:mini-forge:mini-forges]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_GAME]
+[NAME:handheld game:handheld games]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_LAPTOP]
+[NAME:laptop:laptops]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SOLDIER]
+[NAME:toy soldier:toy soldiers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_GUN]
+[NAME:toy gun:toy guns]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SWORD]
+[NAME:toy sword:toy swords]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HOLOSCREEN]
+[NAME:holoscreen:holoscreens]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_VR]
+[NAME:VR rig:VR rigs]
+[HARD_MAT]
+
